@@ -79,6 +79,10 @@ You are not allowed to import packages other than requests and sys.
 You don’t need to check arguments passed to the script (number or type).
 
 
+
+python github_user_id.py your_github_username your_personal_access_token
+
+
 **100-github_commits.py:** Writing a Python script that takes 2 arguments in order to solve this challenge.
 The first argument will be the repository name.
 The second argument will be the owner name.
